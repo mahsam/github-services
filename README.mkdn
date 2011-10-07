@@ -89,3 +89,4 @@ You can also test your hook with the Sinatra web service:
    just editing the "data" values but leaving the "payload" alone.)
 3. Send the docs/github_payload file to your service by calling:
    `./script/deliver_payload [service-name]`
+So here we go!
